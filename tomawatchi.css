@@ -13,14 +13,16 @@ h1
 	font-weight: 100;
 	font-size: 200;
 	font-weight: bolder;
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 h2
 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: lighter;
 	font-size: 50;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 p1
 {
