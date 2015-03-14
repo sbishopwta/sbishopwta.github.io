@@ -4,9 +4,6 @@ body
 	margin-left: 0 auto;
   	margin-right: 0 auto;
   	margin-bottom: 50px;
-  	text-align: center;
-	vertical-align: middle;
-    display: inline-block;
 	background-color: #fff59d;
 	font-family: 'Roboto', sans-serif;
 }
@@ -33,4 +30,25 @@ p1
 	font-family: 'Roboto', sans-serif;	
 	line-height: 0px;
 
+}
+
+#M {
+  width: 60%;
+  position: relative;
+  margin: 0 auto;
+  top: 0;
+}
+
+#L {
+  width: 20%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#R {
+  width: 20%;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
