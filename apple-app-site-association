@@ -1,0 +1,9 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "QGTZB9G6D4.com.stevenbishop.OAuthApp",
+			"paths": ["*"]
+		}]
+	}
+}
