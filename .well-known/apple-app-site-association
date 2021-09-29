@@ -3,7 +3,7 @@
 		"details": [{
 			"appIDs": ["QGTZB9G6D4.com.stevenbishop.OAuthApp"],
 			"components": [{
-				"/": "connect/*"
+				"/": "/connect/*"
 			}]
 		}]
 	}
